@@ -12,11 +12,11 @@ author: L'équipe du projet GEODE
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://geode-project.github.io"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  About Me: "Description"
+  Ressources:
+    - Geoparsing notebook: "https://github.com/GEODE-project/perdido-geoparsing-notebook"
+  #  - Learn markdown: "https://www.markdowntutorial.com/"
+  #Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
