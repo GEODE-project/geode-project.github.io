@@ -15,12 +15,12 @@ layout: page
   {% for post in posts %}
   <article class="post-preview">
     <a href="{{ post.url | relative_url }}">
-      <h2 class="post-title">{{ post.title }}</h2>
+      <h4 class="post-title">{{ post.title }}</h4>
 
       {% if post.subtitle %}
-        <h3 class="post-subtitle">
+        <h5 class="post-subtitle">
         {{ post.subtitle }}
-        </h3>
+        </h5>
       {% endif %}
     </a>
 
