@@ -4,7 +4,10 @@ layout: page
 
 {% include header.html type="home" %}
 
-{{ content }}
+
+<div role="main" class="container-md">
+  {{ content }}
+</div>
 
 {% assign posts = paginator.posts | default: site.posts %}
 
