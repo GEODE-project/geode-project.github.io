@@ -11,10 +11,10 @@ Notre démarche interdisciplinaire réunit des spécialistes de linguistique, de
 En nous appuyant sur les outils et méthodologies de classification semi-supervisée des textes, de génération de modèles de langues et de repérage automatique des routines discursives, nous étudierons les changements survenus dans l’expression des informations géographiques dans les encyclopédies.
 
 
-<img height="150px" src="/assets/img/logos/logo-aslan.png" alt="ASLAN" />
-<img height="150px" src="/assets/img/logos/logo-icar.png" alt="ICAR"/>
-<img height="150px" src="/assets/img/logos/logo-ens.png" alt="ENS"/>
-<img height="150px" src="/assets/img/logos/logo-udl.png" alt="UDL"/>
+<img height="80px" src="/assets/img/logos/logo-aslan.png" alt="ASLAN" />
+<img height="80px" src="/assets/img/logos/logo-icar.png" alt="ICAR"/>
+<img height="80px" src="/assets/img/logos/logo-ens.png" alt="ENS"/>
+<img height="80px" src="/assets/img/logos/logo-udl.png" alt="UDL"/>
 
 
 <p style='text-align: justify;'>
