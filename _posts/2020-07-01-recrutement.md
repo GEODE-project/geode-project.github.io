@@ -1,69 +1,91 @@
 ---
 layout: post
-title: Recrutement Ingénieur d'études
+title: Offre de thèse en informatique
 subtitle: TAL et Humanités Numériques
 tags: [recrutement]
 ---
 
-Le poste s’inscrit dans le cadre du projet GÉODE ("Encyclopedic GEOgraphical DiscoursE: Writing about Geography in France from the Enlightenment to the Age of Wikipedia", 2020-2024) financé par le LabEx ASLAN pour une période de 18 mois (démarrage prévu en janvier 2021).
 
-L’objectif de ce projet est l’étude des changements majeurs survenus dans les discours géographiques dans les encyclopédies françaises éditées en France entre 1751 (parution du premier tome de l’Encyclopédie ou dictionnaire raisonné des sciences, des arts et des métiers de Diderot et d’Alembert) et nos jours (Wikipédia, version 2018). 
-Notre démarche interdisciplinaire réunit des spécialistes de linguistique, de TAL, de géographie et de géomatique, d’histoire des idées et d’humanités numériques. 
-En nous appuyant sur les outils et méthodologies de classification semi-supervisée des textes, de génération de modèles de langues et de repérage automatique des routines discursives, nous étudierons les changements survenus dans l’expression des informations géographiques dans les encyclopédies.
 
+Ce projet de thèse s’inscrit dans le cadre du projet GEODE (“Encyclopedic GEOgraphical DiscoursE: Writing about Geography in France from the Enlightenment to the Age of Wikipedia”) financé par le LabEx ASLAN sur la période 2020-2024.
+
+Ce projet interdisciplinaire réunit un consortium de chercheurs en informatique, linguistique, géographie et histoire appartenant aux laboratoires LIRIS, ICAR, EVS, LLF et LIDILEM ainsi qu’à l’Institut Alan Turing (Londres). GEODE s’appuie sur les résultats de projets précédents dans lesquels les différents partenaires ont pu collaborer [8, 9, 13, 14] et vise à en étendre les objectifs scientifiques. L’objectif principal visé est le développement de méthodes pour l’étude des changements majeurs survenus au sein des discours géographiques dans les encyclopédies françaises entre la seconde moitié du XVIIIe​ siècle (Encyclopédie de Diderot et d’Alembert) et nos jours (Wikipedia).
 
 
 
 <img height="80px" src="/assets/img/logos/logo-aslan.png" alt="ASLAN" />
+<img height="80px" src="/assets/img/logos/logo-insa.png" alt="INSA"/>
+<img height="80px" src="/assets/img/logos/logo-liris.png" alt="LIRIS"/>
 <img height="80px" src="/assets/img/logos/logo-icar.png" alt="ICAR"/>
-<img height="80px" src="/assets/img/logos/logo-ens.png" alt="ENS"/>
-<img height="80px" src="/assets/img/logos/logo-udl.png" alt="UDL"/>
 
 
 <p style='text-align: justify;'>
 L’ingénieur·e sera intégré·e à l’équipe de recherche CÉDILLES du laboratoire ICAR (CNRS UMR 5191) qui développe ses recherches à l’interface de la linguistique descriptive et de la sémiotique, de l’informatique linguistique et de la linguistique de corpus.
 </p>
 
-## Missions
+
+
+## Encadrants
+
+**Frédérique Laforest**, Professeur en Informatique (Laboratoire LIRIS, INSA Lyon)
+**Denis Vigier​**, Maître de conférences HDR en Langue et Linguistique Françaises (Laboratoire ICAR, Université Lumière Lyon 2)
+**Ludovic Moncla**, Maître de conférences en Informatique (Laboratoire LIRIS, INSA Lyon)
+
+
+
+## Objectifs de la thèse
 
 <p style='text-align: justify;'>
-La personne recrutée interviendra dans les deux premiers lots du projet en collaboration avec différents partenaires. Ces deux lots concernent : (1) la préparation et l’enrichissement des corpus et (2) l’étude linguistique pour l’amélioration d’une chaîne d’extraction automatique d’information.
-</p>
-<p style='text-align: justify;'>
-Dans un premier temps la mission consistera à homogénéiser les formats des différents corpus étudiés (l’Encyclopédie de Diderot et d’Alembert (1751-1772), La Grande Encyclopédie (1885-1902), l’Encyclopedia Universalis (2018) et Wikipédia) en vue d’un encodage le plus automatisé possible en XML-TEI. Dans cette perspective, il sera nécessaire i) de développer de nouveaux outils automatiques, ii) de réutiliser des outils existants en les adaptant éventuellement aux particularités du projet. Ces outils pourront être généraux (Khemakhem et al., 2017) ou développés pour des besoins similaires (une suite d'outils pour traiter le format ALTO a ainsi été écrite dans le cadre du projet DISCO-LGE). Les corpus structurés seront ensuite importés dans la plateforme [TXM](http://textometrie.ens-lyon.fr) en vue de leur exploration linguistique et textométrique. En complément, le travail consistera également à enrichir ces corpus par l’annotation automatique des lemmes, des catégories grammaticales et des rôles syntaxiques. 
-L’ingénieur-e sera ainsi conduit-e à travailler avec les équipes des laboratoires du LLF et du LIDILEM. Cette tâche s’appuiera sur les résultats de précédents travaux de l’équipe (Diwersy et al., 2017 ; Vigier et al. 2020).
-</p>
-<p style='text-align: justify;'>
-Dans une seconde phase, l’ingénieur·e recruté·e aura pour objectif de participer à une étude linguistique afin d’améliorer et d’adapter les différentes étapes de la reconnaissance des entités nommées spatiales implémentées dans la plateforme [PERDIDO](http://textometrie.ens-lyon.fr) (Gaio & Moncla, 2019). Ce travail s’appuie sur des travaux déjà entamés par les différents partenaires du projet GEODE (McDonough et al., 2019 ; Moncla et al., 2019 ; Vigier et al., 2020). L’objectif sera par exemple d’utiliser des méthodes de statistique textuelle (Blumenthal & Vigier, 2017) pour l’amélioration des grammaires d’annotation sémantique.
+Le travail de thèse sera décomposé en plusieurs objectifs complémentaires.
+Tout d’abord, le/la doctorant-e se concentrera sur la préparation des corpus (homogénéisation des formats, corrections, annotations) afin que le contenu de chaque encyclopédie puisse être traité par des méthodes automatiques. Ensuite, la proposition consistera à développer des algorithmes adaptés pour l’analyse automatique et la recherche d’informations géo-sémantiques et de routines discursives. Le/la doctorant-e s’intéressera en particulier au développement de modèles linguistiques adaptés à l’analyse diachronique du discours géographique. La méthodologie reposera sur la conception d’une chaîne de traitement nécessitant des ressources spécifiques pour le traitement de données géo-historiques (documents annotés, modèles linguistiques, ressources géographiques, etc.). Cette chaîne de traitement fera intervenir des méthodes de classification supervisée ou semi-supervisée pour la classification de textes et le repérage automatique de routines discursives ainsi que des méthodes d’apprentissage profond pour la génération de modèles de langue (tels que les word embeddings). Enfin, une étape du travail consistera également à proposer des méthodes d’interrogation et de visualisation adaptées pour l’analyse et la comparaison des différents corpus.
 </p>
 
-## Profil recherché
+<p style='text-align: justify;'>
+Concernant la préparation et l'homogénéisation des corpus, des travaux devront, par exemple, être conduits afin d’automatiser l’encodage des structures textuelles et péritextuelles ainsi que des métadonnées associées au texte de ​La Grande Encyclopédie ​(1882-1905). Un accent devra aussi être mis sur l’amélioration des chaînes de traitement PERDIDO [5] et PRESTO [3], tout particulièrement en ce qui concerne le traitement de la variation graphique pour les textes du XVIIIe​ siècle et l’annotation (POS, lemme) des noms propres [4, 12]. Afin de mettre en œuvre et de combiner des approches quantitative et qualitative, ce travail nécessitera des compétences tant en linguistique qu’en informatique pour la phase d’amélioration de l’annotation des POS (morphosyntaxe) dans une perspective diachronique, ​l’identification et la compréhension des routines discursives ainsi que pour l’implémentation de solutions automatisées.
+</p>
+<p style='text-align: justify;'>
+Le/la doctorant-e devra dès le début de sa thèse, s’employer à entrer dans les textes par une lecture fréquente d’articles des quatre encyclopédies du corpus (​Encyclopédie ou Dictionnaire raisonné des sciences des arts et des métiers (1751-1772), ​La Grande Encyclopédie (1885-1902), Encyclopædia Universalis e​ t ​Wikipedia)​ , afin de s’en forger une connaissance personnelle. Il/elle devra en outre s’attacher à situer ces textes dans le contexte historique, politique et philosophique où ils ont vu le jour, et s’intéresser à leur processus de rédaction (identité des contributeurs, dates de parution des volumes, état de la “discipline” géographique vis-à-vis des autres disciplines à l’époque considérée, etc.). Ces connaissances progressivement élaborées seront réinvesties dans les choix de stratégies et de méthodes pour le traitement informatique des textes et dans l’interprétation des résultats obtenus. De même, une relative connaissance des évolutions propres à la géographie (en tant que pratique puis comme discipline académique) entre le XVIIIe​ siècle et nos jours [10, 2, 11] sera utile pour un traitement éclairé des textes et des résultats.
+</p>
+<p style='text-align: justify;'>
+L’insertion du/de la doctorant-e dans un séminaire autour du discours géographique organisé conjointement par les laboratoires ICAR, LIRIS, et EVS lui permettra à la fois de se former sur ces aspects et de communiquer sur ses résultats.
+</p>
+
+## Profil et compétences recherchées
 
 * Diplôme: Master (ou équivalent) en Informatique (mention TAL), linguistique-informatique ou Humanités Numériques
 * Compétences :
   * Solides compétences en informatique : programmation (Java, Python), programmation web, XML, base de données.
   * TAL : statistique textuelles et R, outils d’exploration et d’annotation de corpus, XML-TEI.
   * Langues : excellent niveau en français requis et bon niveau en anglais.
-* Qualités personnelles : l’ingénieur-e devra faire preuve d’aptitude relationnelles pour le travail en
+* Qualités personnelles : devra faire preuve d’aptitude relationnelles pour le travail en
 équipe, de qualités de rigueur scientifique, d’autonomie et d’esprit d’initiative.
 
 
 ## Information pratiques
 
-* Durée du CDD : 18 mois
-* Début du contrat : janvier 2021
-* Salaire : suit la grille ingénieur d’étude du CNRS : entre 1685 € et 1892 € net par mois selon expérience.
-* Lieu de travail : École Normale Supérieure de Lyon, Bâtiment Recherche, 15 parvis René Descartes, 69007 Lyon.
-* Affectation : Laboratoire ICAR CNRS/Université de Lyon UMR 5191
-* Contacts : Denis Vigier (denis.vigier@ens-lyon.fr) et Ludovic Moncla (ludovic.moncla@insa-lyon.fr)
-* Dossier de candidature : CV, lettre de motivation et lettres de recommandation. Les candidatures seront examinées au fur et à mesure de leur réception. Le dossier est à adresser à D. Vigier et L. Moncla au plus tard le 30 septembre 2020. Entretiens de recrutement courant octobre pour une prise de fonction en janvier 2021.
+* La thèse sera effectuée en partie au laboratoire LIRIS à l’INSA Lyon et au laboratoire ICAR à l’ENS Lyon.
+* Démarrage de la thèse : février 2021
+
+
+## Candidatures
+
+* Envoyer votre CV, vos derniers relevés de notes et votre lettre de motivation (en un seul pdf) par mail à ​Frederique Laforest, ​Denis Vigier et ​Ludovic Moncla 
+* Candidatures acceptées jusqu’au 20 décembre 2020
+
 
 ## Références
 
-* Blumenthal, P., Vigier, D. (2017), Du quantitatif au qualitatif en diachronie. Présentation, Langages 2017/2 (N° 206), p. 5- 20.
-* Diwersy S., Falaise A., Lay, M-H & Souvay G. (2017), Ressources et méthodes pour l’analyse diachronique in Blumenthal & Vigier (eds.), “Du quantitatif au qualitatif en diachronie. Prépositions françaises”, Langages 206, 21-44.
-* Gaio, M., & Moncla, L. (2019), Geoparsing and geocoding places in a dynamic space context. In The semantics of Dynamic Space in French: Descriptive, experimental and formal studies on motion expression. In Human Cognitive Processing: Vol. 66 (Michel Aurnague and Dejan Stosic, pp. 354-386). John Benjamins Publishing Company.
-* Khemakhem, M., Foppiano, L., & Romary, L. (2017), Automatic Extraction of TEI Structures in Digitized Lexical Resources using Conditional Random Fields. In: electronic lexicography, eLex 2017, Leiden, Netherlands.
-* McDonough, K., Moncla, L. & Van de Camp, M. (2019), Named entity recognition goes to old regime France : geographic text analysis for early modern French corpora. International Journal of Geographical Information Science (IJGIS), 33 (12), 25 pages
-* Moncla, L., McDonough, K., Vigier, D., Joliveau T., & Brenon, A. (2019), Toponym Disambiguation in Historical Documents Using Network Analysis of Qualitative Relationships. In: Proceedings of the 3rd ACM SIGSPATIAL International Workshop on Geospatial Humanities, 4 pages, Chicago, IL, USA, November 5th–8th
-* Vigier, D., Moncla, L., Brenon, A., McDonough, K., & Joliveau T. (2020), Classification des entités nommées dans l'Encyclopédie ou dictionnaire raisonné des sciences des arts et des métiers par une société de gens de lettres} (1751-1772). In: 7th Congrès Mondial de Linguistique Française (CMLF), Montpellier, France, July 6th–10th
+[1] Barroux, G. et Pépin F. (dir.), ​Le Chevalier de Jaucourt. L'homme au dix-sept mille articles​, Société Diderot, collection "L'Atelier, autour de Diderot et de l'Encyclopédie", 2015.
+[2] Blais, H.; Laboulais-Lesage, I. ​Géographies plurielles.​ Les ​sciences géographiques au ​moment de l'​émergence des sciences humaines​ (​1750-1850​), L'Harmattan, 2006, Histoire des ​Sciences Humaines
+[3] Blumenthal, P., Vigier, D. ​Du quantitatif au qualitatif en diachronie. Présentation, Langages 2017/2 (N° 206), p. 5-20, 2017
+[4] Diwersy S., Falaise A., Lay, M-H & Souvay G. Ressources et méthodes pour l’analyse diachronique in Blumenthal & Vigier (eds.), “Du quantitatif au qualitatif en diachronie. Prépositions françaises”, Langages 206, 21-44, 2017
+[5] Gaio, M. and Moncla, L. Geoparsing and geocoding places in a dynamic space context: The case of hiking descriptions. In: Aurnague, M and Stosic, D. (Eds), The semantics of dynamic space in French. Descriptive, experimental and formal studies on motion expressions, John Benjamins, Human Cognitive Processing, 66, pp.353-386, 2019
+[6] Laramée, F. D. ​La production de l’espace dans l’Encyclopédie. Portraits d’une géographie imaginée​, ​Document numérique,​ vol. vol. 20, no. 2, pp. 159-177, 2017
+[7] Leca-Tsiomis, M. L’Encyclopédie selon Jaucourt, in ​Le Chevalier de Jaucourt. L'homme au dix-sept mille articles​, Gilles Barroux et François Pépin (dir.), pp. 43-50, 2015
+[8] McDonough, K., Moncla, L. & Van de Camp, M. ​Named entity recognition goes to old regime France : geographic text analysis for early modern French corpora.​ International Journal of Geographical Information Science (IJGIS), 33 (12), 25 pages, 2019
+[9] Moncla, L., McDonough, K., Vigier, D., Joliveau T., & Brenon, A. ​Toponym Disambiguation in Historical Documents Using Network Analysis of Qualitative Relationships​. In: Proceedings of the 3rd ACM SIGSPATIAL International Workshop on Geospatial Humanities, 4 pages, Chicago, IL, USA, November 5th–8th, 2019
+[10] Numa ​Broc : ​La Géographie des Philosophes, géographes et voyageurs. français au 18e siècle​. Editions Ophrys, Paris, 1975, 600 p.
+[11] Peaud, L. (2016), ​La géographie, émergence d'un champ scientifique​. France, Prusse et Grande-Bretagne (1780-1860)
+[12] Rossari, C., Vigier, D. Enonciation et polyphonie dans le discours encyclopédique. TRANEL. Travaux Neuchâtelois de Linguistique, 69, 123 p. 2019
+[13] Vigier, D., Moncla, L., Brenon, A., McDonough, K., & Joliveau T. ​Classification des entités nommées dans l'Encyclopédie ou dictionnaire raisonné des sciences des arts et des métiers par une société de gens de lettres (1751-1772). In: 7th Congrès Mondial de Linguistique Française (CMLF), Montpellier, France, July 6th–10th, 2020
+[14] Vigier, D., Moncla, L., Joliveau T., McDonough, K., & Brenon, A. (2019), ​GeoDISCO: Encyclopedic Geographical Discourse in France from the Enlightenment to Wikipedia​. In: 13th Workshop on Geographical Information Retrieval, Lyon, France, November 28th, 2019
