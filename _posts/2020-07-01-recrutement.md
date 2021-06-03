@@ -14,7 +14,7 @@ Ce projet interdisciplinaire réunit un consortium de chercheurs en informatique
 
 
 <img height="80px" src="/assets/img/logos/logo-aslan.png" alt="ASLAN" />
-<img height="80px" src="/assets/img/logos/logo-insa.png" alt="INSA"/>
+<img height="80px" src="/assets/img/logos/logo-insa.jpg" alt="INSA"/>
 <img height="80px" src="/assets/img/logos/logo-liris.png" alt="LIRIS"/>
 <img height="80px" src="/assets/img/logos/logo-icar.png" alt="ICAR"/>
 
