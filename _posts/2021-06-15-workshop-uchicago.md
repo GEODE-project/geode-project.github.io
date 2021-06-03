@@ -11,5 +11,5 @@ Le discours géographique fait partie à la fois de la langue  scientifique dév
 
 - Workshop en ligne : **Mardi 15 juin 2021** de 15h à 18h30
 
-- Programme et inscription : https://centerinparis.uchicago.edu/events/donnees-et-discours-geographiques-en-france-au-18e-siecle
+- Programme et inscription : [https://centerinparis.uchicago.edu/events/donnees-et-discours-geographiques-en-france-au-18e-siecle](https://centerinparis.uchicago.edu/events/donnees-et-discours-geographiques-en-france-au-18e-siecle)
 
