@@ -13,7 +13,7 @@ Dans ce contexte, le travail de stage s'intéressera à l'expérimentation de m�
 De manière générale, nous souhaitons dresser une liste des domaines et sous-domaines de connaissances mentionnés dans chacune des éditions du corpus, afin de quantifier et de comparer la place qu'ils occupent. Cela permettra de mettre en évidence l'évolution qualitative et quantitative de ces domaines dans la série DUFLT entre 1704 et 1771. Dans le cadre du stage, l'expérimentation portera sur les éditions de 1743 et 1771 que nous avons au format numérique.
 </p>
 <img height="80px" src="/assets/img/logos/logo-aslan.png" alt="ASLAN" />
-<img height="80px" src="/assets/img/logos/logo-cnrs.jpg" alt="CNRS"/>
+<img height="80px" src="/assets/img/logos/logo-cnrs.png" alt="CNRS"/>
 <img height="80px" src="/assets/img/logos/logo-liris.png" alt="LIRIS"/>
 <img height="80px" src="/assets/img/logos/logo-eric.jpg" alt="ERIC"/>
 <img height="80px" src="/assets/img/logos/logo-icar.png" alt="ICAR"/>
@@ -41,16 +41,16 @@ Ce stage sera réalisé dans l'équipe DM2L (Data Mining et Machine Learning) du
 Des compétences sont attendues en programmation et en science des données (Machine Learning et Deep Learning). Des connaissances en traitement automatique de la langue (TAL) seront appréciées.
 </p>
 
-**Profil recherché** : Master 2 Informatique
-**Lieu du stage** : Laboratoire ERIC, Université Lyon 2, Bron (principalement), avec des visites au laboratoire LIRIS, INSA Lyon, Campus La Doua, Villeurbanne.
-**Période de stage** : 5 à 6 mois entre février et juillet 2024
+**Profil recherché** : Master 2 Informatique   
+**Lieu du stage** : Laboratoire ERIC, Université Lyon 2, Bron (principalement), avec des visites au laboratoire LIRIS, INSA Lyon, Campus La Doua, Villeurbanne.   
+**Période de stage** : 5 à 6 mois entre février et juillet 2024   
 **Candidature** : Envoyer un mail présentant votre parcours et vos motivations, votre CV et vos derniers relevés de notes à : <a href="mailto:ludovic.moncla@insa-lyon.fr">ludovic.moncla@insa-lyon.fr</a> et <a href="mailto:julien.velcin@univ-lyon2.fr">julien.velcin@univ-lyon2.fr</a>
 
 
 
 ## Encadrants
 
-**Ludovic Moncla**, Maître de conférences en Informatique (Laboratoire LIRIS, INSA Lyon)
+**Ludovic Moncla**, Maître de conférences en Informatique (Laboratoire LIRIS, INSA Lyon)   
 **Julien Velcin​**, Professeur en Informatique (Laboratoire ERIC, Université Lyon 2)
 
 
