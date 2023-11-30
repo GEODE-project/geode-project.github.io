@@ -34,7 +34,7 @@ L’enrichissement des données devrait nous aider à construire des espaces de 
 </p>
 
 <p style='text-align: justify;'>
-Ce stage sera réalisé dans l'équipe DM2L (Data Mining et Machine Learning) du laboratoire <a href="https://liris.cnrs.fr">LIRIS</a> et l'équipe DMD (Data Mining \& Decision) du laboratoire <a href="https://eric.msh-lse.fr/">ERIC</a> et en collaboration avec le laboratoire <a href="http://icar.cnrs.fr">ICAR</a>.
+Ce stage sera réalisé dans l'équipe DM2L (Data Mining et Machine Learning) du laboratoire <a href="https://liris.cnrs.fr">LIRIS</a> et l'équipe DMD (Data Mining & Decision) du laboratoire <a href="https://eric.msh-lse.fr/">ERIC</a> et en collaboration avec le laboratoire <a href="http://icar.cnrs.fr">ICAR</a>.
 </p>
 
 <p style='text-align: justify;'>
