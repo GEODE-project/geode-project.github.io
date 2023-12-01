@@ -44,7 +44,7 @@ Des compétences sont attendues en programmation et en science des données (Mac
 **Profil recherché** : Master 2 Informatique   
 **Lieu du stage** : Laboratoire ERIC, Université Lyon 2, Bron (principalement), avec des visites au laboratoire LIRIS, INSA Lyon, Campus La Doua, Villeurbanne.   
 **Période de stage** : 5 à 6 mois entre février et juillet 2024   
-**Candidature** : Envoyer un mail présentant votre parcours et vos motivations, votre CV et vos derniers relevés de notes à : <a href="mailto:ludovic.moncla@insa-lyon.fr">ludovic.moncla@insa-lyon.fr</a> et <a href="mailto:julien.velcin@univ-lyon2.fr">julien.velcin@univ-lyon2.fr</a>
+**Candidature** : Envoyer un mail présentant votre parcours et vos motivations, votre CV et vos derniers relevés de notes à : <a href="mailto:ludovic.moncla@insa-lyon.fr">ludovic.moncla@insa-lyon.fr</a> et <a href="mailto:julien.velcin@univ-lyon2.fr">julien.velcin@univ-lyon2.fr</a>. Date limite de candidature : <b>20 décembre 2023</b>. Les candidatures seront examinées au fil de l'eau.
 
 
 
