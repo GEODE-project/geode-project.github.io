@@ -77,7 +77,13 @@ GEODE est une collaboration interdisciplinaire où les méthodes de linguistique
 <h2 id="publications">Publications</h2>
 <br/>
 
-<b>Moncla L., Gaio, M.</b> (2023). <br/><i>Perdido: Python library for geoparsing and geocoding French texts. </i>
+
+<b>Moncla L., Vigier D. and McDonough K.</b> (2024). <br/><i>GeoEDdA: A Gold Standard Dataset for Geo- semantic Annotation of Diderot & d’Alembert’s Encyclopédie.</i> 
+<br/>In proceedings of the Second International Workshop on Geographic Information Extraction from Texts (GeoExT'23), ECIR Conference, Dublin, Ireland.
+<br/><a href="https://hal.science/hal-04511909">hal-04511909</a>
+<br/><br/>
+
+<b>Moncla L., Gaio, M.</b> (2023). <br/><i>Perdido: Python library for geoparsing and geocoding French texts.</i> 
 <br/>In proceedings of the First International Workshop on Geographic Information Extraction from Texts (GeoExT'23), ECIR Conference, Dublin, Ireland.
 <br/><a href="https://hal.science/hal-04049794">hal-04049794</a>
 <br/><br/>
@@ -139,11 +145,10 @@ GEODE est une collaboration interdisciplinaire où les méthodes de linguistique
 <h2 id="communications">Communications orales</h2>
 <br/>
 
-<!--
-<b>Joliveau, T.,  Moncla, L. et McDonough, K.</b> (11 octobre 2023). <br/><i>Un projet cartographique pour l’Encyclopédie. Localisation par coordonnées et géovisualisation des articles de l'Encyclopédie de Diderot et d'Alembert.</i>
-<br/><a href="https://frenchitalian.washington.edu/calendar?trumbaEmbed=view%3Devent%26eventid%3D162846015">Séminaire d’histoire des sciences astronomiques</a> Observatoire de Paris, Paris, France. 
+
+<b>Joliveau, T.,  Moncla, L. et McDonough, K.</b> (10 octobre 2023). <br/><i>Un projet cartographique pour l’Encyclopédie. Localisation par coordonnées et géovisualisation des articles de l'Encyclopédie de Diderot et d'Alembert.</i>
+<br/><a href="https://syrte.obspm.fr/spip/science/histoire/seminaires-et-colloques/seminaire-d-histoire-des-sciences-astronomiques/">Séminaire d’histoire des sciences astronomiques</a> Observatoire de Paris, Paris, France. 
 <br/><br/>
--->
 
 <b>Brenon, A., Vigier, D., Moncla, L. and Laforest, F. </b> (4 juillet 2023). <br/><i>Comparaison diachronique de motifs récurrents dans deux encyclopédies.</i>
 <br/>11ème Journées Internationales de la Linguistique de Corpus. Grenoble, France. 
@@ -186,13 +191,35 @@ GEODE est une collaboration interdisciplinaire où les méthodes de linguistique
 
 <ul>
 
-	<a>Execution de cascades de transducteurs <Unitex href="https://unitexgramlab.org/fr">Unitex/GramLab</a> en Python : <a href="https://github.com/ludovicmoncla/python-unitex-cassys">code source</a></a>
+	<li>
+		Classification automatique des articles de l'EDdA : 
+		<ul>
+			<li>Code source : <a href="https://gitlab.liris.cnrs.fr/geode/EDdA-Classification">Gitlab LIRIS</a></li>
+			<li>Modèle BERT : <a href="https://huggingface.co/GEODE/bert-base-multilingual-cased-edda-domain-classification">HuggingFace</a></li>
+		</ul>
+	</li>
+	<li>
+		Modèles et jeu de données pour l'annotation géo-sémantique :
+		<ul>
+			<li>Code source : <a href="https://github.com/GEODE-project/ner-spancat-edda">Github</a></li>
+			<li>Jeu de données : <a href="https://huggingface.co/datasets/GEODE/GeoEDdA">HuggingFace</a>, <a href="https://zenodo.org/records/10530177">Zenodo</a></li>
+			<li>Custom spaCy spancat model : <a href="https://huggingface.co/GEODE/fr_spacy_custom_spancat_edda">HuggingFace</a></li>
+		</ul>
 	</li>
 
-	<li><a href="https://github.com/ludovicmoncla/demo-perdido-egc-2023">Perdido : librairie Python pour le geoparsing et le geocoding de textes en français</a> : Session démonstration <a href="https://egc2023.sciencesconf.org">EGC 2023</a>
+	<li>
+		Geoparsing de documents historiques en français avec <a href="https://github.com/ludovicmoncla/perdido">PERDIDO Geoparser</a> : <a href="https://github.com/GEODE-project/perdido-geoparsing-notebook">Jupyter notebook</a>
+	</li>
+	<li>
+		<a>Execution de cascades de transducteurs <Unitex href="https://unitexgramlab.org/fr">Unitex/GramLab</a> en Python : <a href="https://github.com/ludovicmoncla/python-unitex-cassys">code source</a></a>
 	</li>
 
-	<li>Tutoriel - CNRS <ANF href="https://anf-tdm-2022.sciencesconf.org/resource/page/id/11">ANF TDM 2022 Python Geoparsing. 
+	<li>
+		<a href="https://github.com/ludovicmoncla/demo-perdido-egc-2023">Perdido : librairie Python pour le geoparsing et le geocoding de textes en français</a> : Session démonstration <a href="https://egc2023.sciencesconf.org">EGC 2023</a>
+	</li>
+
+	<li>
+		Tutoriel - CNRS <ANF href="https://anf-tdm-2022.sciencesconf.org/resource/page/id/11">ANF TDM 2022 Python Geoparsing. 
 		<ul>
 			<li><a href="https://gitlab.liris.cnrs.fr/lmoncla/tutoriel-anf-tdm-2022-python-geoparsing/-/tree/main">Jupyter notebook</a></li>
 			<li><a href="https://www.youtube.com/watch?v=ennREmBpq7o">Interview vidéo</a></li>
@@ -200,7 +227,8 @@ GEODE est une collaboration interdisciplinaire où les méthodes de linguistique
 		<a href="https://gitlab.liris.cnrs.fr/lmoncla/tutoriel-anf-tdm-2022-python-geoparsing/-/tree/main">Jupyter notebook</a></a>
 	</li>
 
-	<li><a href="https://sunoikisisdc.github.io">SunoikisisDC</a> Summer 2022 Course on <a href="https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/SunoikisisDC-Summer-2022-Session-9">Natural Language Processing (NLP) for historical texts</a> (Session 9)
+	<li>
+		<a href="https://sunoikisisdc.github.io">SunoikisisDC</a> Summer 2022 Course on <a href="https://github.com/SunoikisisDC/SunoikisisDC-2021-2022/wiki/SunoikisisDC-Summer-2022-Session-9">Natural Language Processing (NLP) for historical texts</a> (Session 9)
 		<ul>
 			<li><a href="https://github.com/ludovicmoncla/SunoikisisDC-Summer2022-Session9">Jupyter notebook</a></li>
 			<li><a href="https://www.youtube.com/watch?v=7NK2KyP2BYs">Video recording</a></li>
@@ -209,11 +237,9 @@ GEODE est une collaboration interdisciplinaire où les méthodes de linguistique
 	</li>
 
 	
-	<li>Classification automatique des articles de l'EDdA : <a href="https://gitlab.liris.cnrs.fr/geode/EDdA-Classification">code source</a></a>
-	</li>
+	
 
-	<li>Geoparsing de documents historiques en français avec <a href="https://github.com/ludovicmoncla/perdido">PERDIDO Geoparser</a> : <a href="https://github.com/GEODE-project/perdido-geoparsing-notebook">Jupyter notebook</a>
-	</li>
+	
 
 </ul>
 
