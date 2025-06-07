@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Soutenance thèse A. Brenon
-subtitle: 
+subtitle: le 10 juin 2025 à 9h00
 tags: [soutenance]
 ---
 
